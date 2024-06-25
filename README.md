@@ -2,7 +2,8 @@
 
 ## Overview
 This project is part of the ENPM809Y: Introductory Robot Programming course at the University of Maryland, College Park. The primary goal is to implement a "wall following" algorithm to navigate a robot through a maze to a goal adjacent to one of the outer walls. 
--**Note:**  The detailed instructions on how to run the project is given in the file [README Pdf](readme.pdf)
+
+**Note:**  The detailed instructions on how to run the project is given in the file [README Pdf](readme.pdf)
 ## Installation
 
 ### Cloning the Repository
