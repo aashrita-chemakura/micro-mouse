@@ -1,0 +1,11 @@
+
+------------------------------------------------------------------------
+Build the application
+------------------------------------------------------------------------
+g++ -std=c++17 -g main.cpp robot.cpp  simulator/simulator.cpp -o main
+------------------------------------------------------------------------
+To switch between left-hand rule approach and right-hand rule approach
+------------------------------------------------------------------------
+In the Run Command give the command 
+"./main r" for right-wall approach
+"./main l" for left-wall approach
